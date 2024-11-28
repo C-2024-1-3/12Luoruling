@@ -1,0 +1,12 @@
+﻿  Circle.cpp
+D:\program\testDemo10.29\testDemo10.29\Circle.cpp(5,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\program\testDemo10.29\testDemo10.29\Circle.cpp(10,17): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\program\testDemo10.29\testDemo10.29\Circle.cpp(15,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\program\testDemo10.29\testDemo10.29\Circle.cpp(23,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\program\testDemo10.29\testDemo10.29\Circle.cpp(43,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+  Rect.cpp
+  正在生成代码...
+  testDemo10.29.vcxproj -> D:\program\testDemo10.29\x64\Debug\testDemo10.29.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
